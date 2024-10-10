@@ -7,7 +7,7 @@
 ## What Is This ?
 
 
-This is peice of code that crawl jobinja website and get the relevant advertisements informations . And archive data into the file.
+This is peice of code that crawl jobinja website and get the relevant advertisements informations and using multi thread feature . And archive data into the file.
 
 Also it take 2 things from user. 
 
